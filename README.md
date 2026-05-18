@@ -6,9 +6,9 @@
 
 <div align="center">
 
-  <img src="Capture1.PNG" width="400" style="margin-right: 10px;">
-  <img src="Capture2.PNG" width="400" style="margin-right: 10px;">
-  <img src="Capture3.PNG" width="400">
+  <img src="Capture1.PNG" width="300" style="margin-right: 10px;">
+  <img src="Capture2.PNG" width="300" style="margin-right: 10px;">
+  <img src="Capture3.PNG" width="300">
 
 </div>
 
