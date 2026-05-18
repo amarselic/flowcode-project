@@ -45,7 +45,7 @@ It counts time in seconds and milliseconds and can be started, stopped, and rese
 
 - `.flowcode` project file
 - Screenshots
-- Documentation (if any)
+
 
 ---
 
