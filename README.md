@@ -11,7 +11,7 @@
 ## 🧠 About Project
 
 This is a simple stopwatch (stoperica) made in Flowcode.  
-It counts time in seconds and milliseconds and can be started, stopped, and reset.
+It counts time in seconds and milliseconds hundredths and can be started, stopped, and reset.
 
 ---
 
