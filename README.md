@@ -60,7 +60,7 @@ It counts time in seconds and milliseconds and can be started, stopped, and rese
 
 ## 🚀 Author
 
-- GitHub: https://github.com/TVOJ_USERNAME
+- GitHub: https://github.com/amarselic
 
 ---
 
