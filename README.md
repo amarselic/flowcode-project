@@ -3,7 +3,7 @@
 
 ## 📸 Preview
 
-![Stopwatch Preview](Capture1.png)
+![Stopwatch](Capture1.PNG)
 
 ---
 
