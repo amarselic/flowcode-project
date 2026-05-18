@@ -3,9 +3,14 @@
 
 ## 📸 Preview
 
-![Stopwatch](Capture1.PNG)
-![Stopped](Capture2.PNG)
-![Laped](Capture3.PNG)
+
+<div align="center">
+
+  <img src="Capture1.PNG" width="200" style="margin-right: 10px;">
+  <img src="Capture2.PNG" width="200" style="margin-right: 10px;">
+  <img src="Capture3.PNG" width="200">
+
+</div>
 
 ---
 
