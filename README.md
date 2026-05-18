@@ -5,6 +5,7 @@
 
 ![Stopwatch](Capture1.PNG)
 ![Stopped](Capture2.PNG)
+![Laped](Capture3.PNG)
 
 ---
 
