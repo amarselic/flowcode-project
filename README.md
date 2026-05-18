@@ -4,6 +4,7 @@
 ## 📸 Preview
 
 ![Stopwatch](Capture1.PNG)
+![Stopped](Capture2.PNG)
 
 ---
 
